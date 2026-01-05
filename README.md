@@ -39,7 +39,7 @@ The raw dataset contained several issues, including:
 - Formatted transaction dates correctly  
 - Created a **Month** column for time-based analysis  
 - Converted the cleaned dataset into an **Excel Table** for scalability  
-
+[View Clean Sheet](https://github.com/Teabay7/Caf-_Sales_Performance_Dashboard-2023-/blob/main/cafe%20clean%20sheet.jpg)
 ---
 
 ## ❓ Business Questions Answered
@@ -80,10 +80,11 @@ The dashboard answers the following key questions:
 
 ### Interactivity
 - Month slicer  
-- Location filter (In-store / Takeaway)  
+- Location filter (In-store / Takeaway)
 
----
 [View Dashboard](https://github.com/Teabay7/Caf-_Sales_Performance_Dashboard-2023-/blob/main/cafe%20dashboard.jpg)
+---
+
 ## 🎯 Final Conclusions
 
 - **Juice, Salad, and Sandwich** are the highest revenue-generating products.  
