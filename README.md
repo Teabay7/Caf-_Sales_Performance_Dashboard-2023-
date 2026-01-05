@@ -65,7 +65,7 @@ The dashboard answers the following key questions:
 
 ---
 
-## 📊 Dashboard Features
+## 📊 Dashboard Features 
 
 ### Key KPIs
 - **Total Sales Revenue:** $90,878.50  
@@ -83,7 +83,7 @@ The dashboard answers the following key questions:
 - Location filter (In-store / Takeaway)  
 
 ---
-
+[View Dashboard](https://github.com/Teabay7/Caf-_Sales_Performance_Dashboard-2023-/blob/main/cafe%20dashboard.jpg)
 ## 🎯 Final Conclusions
 
 - **Juice, Salad, and Sandwich** are the highest revenue-generating products.  
