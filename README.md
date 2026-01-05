@@ -31,6 +31,7 @@ The raw dataset contained several issues, including:
 - Inconsistent item names  
 - Invalid numeric values  
 - Unformatted dates  
+[Click to view dirty datasheet](https://github.com/Teabay7/Caf-_Sales_Performance_Dashboard-2023-/blob/main/cafe%20dirty%20sheet.jpg)
 
 ### Cleaning Actions Performed
 - Removed or corrected `"ERROR"` and `"UNKNOWN"` entries  
@@ -39,7 +40,7 @@ The raw dataset contained several issues, including:
 - Formatted transaction dates correctly  
 - Created a **Month** column for time-based analysis  
 - Converted the cleaned dataset into an **Excel Table** for scalability  
-[View Clean Sheet](https://github.com/Teabay7/Caf-_Sales_Performance_Dashboard-2023-/blob/main/cafe%20clean%20sheet.jpg)
+[Click to View Clean Sheet](https://github.com/Teabay7/Caf-_Sales_Performance_Dashboard-2023-/blob/main/cafe%20clean%20sheet.jpg)
 ---
 
 ## ❓ Business Questions Answered
